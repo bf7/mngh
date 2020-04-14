@@ -1,2 +1,1 @@
-# mngh
-fewfe
+gg.alert('SelamS')
